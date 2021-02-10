@@ -12,8 +12,9 @@
 │   │   │   ├── examples
 │   │   │   │ 	├── object_detection
 │   │   │   │ 	│   ├── tensorflow_yolov3    
-│   │   │   │ 	│     	├── traffic_light.py
-│   │   │   │ 	│   	├── yolov3_object_detection.py            
+│   │   │   │ 	│   ├── YoloV3_traffic_light_Carla_simulator
+│   │   │   │ 	│   	├── yolov3_object_detection.py
+|   |   |   |   |       ├── traffic_light.py
 ```
 
 ## Setup
